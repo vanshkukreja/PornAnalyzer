@@ -1,0 +1,6 @@
+atm
+airline
+airplane
+airport
+apartment
+auto
